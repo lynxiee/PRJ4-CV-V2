@@ -6,15 +6,30 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
+	font-family: semplicitapro, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	color: #000000;
 	background-color: #f8f8fc;
+}
+.myname {color: #D9D9D9;
+font-family: tomarik-display, sans-serif;
+font-weight: 400;
+font-size: 40px;
+font-style: normal;
+padding-top: 28px;
+}
+.mylogline {color:#D9D9D9;
+font-family: tomarik-display, sans-serif;
+font-weight: 400;
+font-size: 20px;
+font-style: normal;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #0C0F40;
 }
 
 .resume-main {
@@ -22,7 +37,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #D9D9D9;
 }
 
 /* Styles for lists in the document */
